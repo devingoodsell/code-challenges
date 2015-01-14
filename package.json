@@ -1,0 +1,16 @@
+{
+  "name": "ProgrammingChallenges",
+  "version": "0.0.1",
+  "description": "A challenge conceived by airtime.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devin Goodsell",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "underscore": "^1.7.0",
+    "unirest": "^0.3.7"
+  }
+}
